@@ -9,6 +9,7 @@ import { MapsAPILoader } from '@agm/core';
   templateUrl: './keeperreg.component.html',
   styleUrls: ['./keeperreg.component.scss']
 })
+declare var google: any;
 export class KeeperregComponent implements OnInit {
 
   constructor(public service:RegserviceService,public router:Router,private mapsAPILoader: MapsAPILoader, private ngZone: NgZone) { }
