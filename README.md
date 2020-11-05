@@ -15,6 +15,6 @@ Backend : <a> https://github.com/charindukavishan/parkhere-server </a>
   </tr>
   <tr>
     <td><img src="https://github.com/charindukavishan/parkhere/blob/master/screenshots/Register.png?fit=281%2C90&ssl=1" width="450"></td>
-    <td><img src="https://github.com/charindukavishan/parkhere/tree/master/screenshots/ParkRegistration.png?fit=281%2C90&ssl=1" width="450"></td>
+    <td><img src="https://github.com/charindukavishan/parkhere/blob/master/screenshots/ParkRegistration.png?fit=281%2C90&ssl=1" width="450"></td>
   </tr>
 </table>
