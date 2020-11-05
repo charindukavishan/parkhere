@@ -1,5 +1,4 @@
 # Smart Parking Manager ( level 2 Software project)
-Student management system using java swing and MySQL
 
 The aim of this project is to develop a smart parking managing system with a mobile app and a web application. Web application is to register parks and maintain a profile for park owners and mobile app is to provide closest parking for the drivers and provide directions. 
 
